@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tugas PPPB_login Page</string>
+    <string name="login">Login</string>
+    <string name="username">Username: </string>
+    <string name="password">Password: </string>
+    <string name="add_username">Masukkan Username</string>
+    <string name="edt_password">Masukkan Password</string>
+    <string name="but_login">Log in  </string>
+
+    <string name="log_suc">Login Sukses </string>
+    <string name="log_pw">Masukkan Password Anda ! </string>
+    <string name="log_uname">Masukkan Username Anda ! </string>
+    <string name="log_fail">Lengkapi Username dan Password Anda ! </string>
+
+
+</resources>
